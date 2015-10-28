@@ -8,10 +8,9 @@
 ## 支持异步和同步调用 Api接口
 ``` php
 class User {
+ 	public function getUserInfo() {
  
- public function getUserInfo() {
- 
- }
+ 	}
 }
 ```
 
